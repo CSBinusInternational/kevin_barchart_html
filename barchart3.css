@@ -1,0 +1,92 @@
+ .graph3{
+   width:500px;
+   height: 300px;
+   border: 2px solid;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(128, 128, 128,0.5);
+   box-shadow: 0px 0px 20px white;
+   margin-top: 50px;
+ }
+
+ 
+ li{
+   border-bottom: 2px solid;
+   list-style-type: none; 
+   padding-bottom: 40px;
+   margin-left: -30px;
+   transform: scale(0.9);
+   opacity: 0.2;
+ }
+ 
+ ul{
+   margin-top: -40px;
+ }
+
+ .text1{
+  text-shadow: 0px 0px 15px white;
+ }
+
+.text2{
+  margin-top: -10px;
+  margin-left: 20px;
+  text-shadow: 0px 0px 15px white;
+  font-weight: bold;
+}
+
+.bar1{
+  width: 60px;
+  height: 171px;
+  background-image: linear-gradient(red,blue);
+  margin-left: 150px;
+  margin-top: 73;
+  position: absolute;
+}
+
+.bar2{
+ width: 60px;
+ height: 40px;
+ background-image: linear-gradient(red,blue);
+ margin-left: 330px;
+ margin-top: 204;
+ position: absolute;
+}
+
+.info1{
+  text-align: center;
+  opacity: 1;
+  margin-top: -20;
+  position: absolute;
+  text-shadow: 0px 0px 15px white;
+}
+
+.bar1 .info11{
+  text-align: center;
+  opacity: 0;
+}
+
+.bar1:hover .info11{
+  text-align: center;
+  opacity: 1;
+}
+
+.bar2 .info11{
+  text-align: center;
+  opacity: 0;
+}
+
+.bar2:hover .info11{
+  text-align: center;
+  opacity: 1;
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  text-shadow: 0px 0px 5px white;
+}
+
+body{
+  background-color:black ;
+}
