@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="exercise4.css">
+    <body>
+        <a href="index.html"><div class="back">Go back to main page?</div></a>
+        <h1>Number of cabins recorded</h1>
+        <div class="box">
+            <div class="bar1"><div class="texts">recorded classes</div></div>
+            <div class="bar2"><div class="texts">unrecorded classes</div></div>
+        </div>
+        <div class="box2">
+            <p>100%</p><hr>
+            <p>80%</p><hr>
+            <p>60%</p><hr>
+            <p>40%</p><hr>
+            <p>20%</p><hr>
+            <p>0%</p><hr>
+                    </div>
+
+    </body>
+</html>
