@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <link rel="stylesheet" href="exercise4.css">
+    <link rel="stylesheet" href="barchart4.css">
     <body>
         <a href="index.html"><div class="back">Go back to main page?</div></a>
         <h1>Number of cabins recorded</h1>
