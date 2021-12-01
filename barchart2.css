@@ -2,6 +2,14 @@ body{
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg);
     background-size: cover;
 }
+.back{
+    width:170px;
+    height: 30px;
+    color: black;
+    background-color:rgba(128, 128, 128,0.5);
+    border: 1px solid;
+    font-weight: bold;
+}
 
 h1{
     font-size: 50px;
