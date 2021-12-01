@@ -85,3 +85,11 @@ li{
 .bar2:hover{
   background-color: slateblue;
 }
+.back{
+    width:170px;
+    height: 30px;
+    color: black;
+    background-color:rgba(128, 128, 128,0.5);
+    border: 1px solid;
+    font-weight: bold;
+}
